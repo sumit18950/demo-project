@@ -14,6 +14,6 @@ public interface StudentDAO {
 
     void deleteById(int theId);
 
-
+    void deleteAll();
 
 }
